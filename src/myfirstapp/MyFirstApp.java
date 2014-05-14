@@ -19,6 +19,8 @@ public class MyFirstApp {
         System.out.println("Hello World");
         System.out.println("55024400");
         System.out.println("Kantapong Rakpong");
+        System.out.println("คณะเทคโนโลยีสารสนเทศและการสื่อสาร");
+        
         
          System.out.println("Information Technology");
           System.out.println("University of Phayao");
